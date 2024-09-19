@@ -37,7 +37,7 @@ pub fn main() {
 
   let command = menu.Command(run: "dmenu", with: [])
 
-  use response <- result.try(menu_tree |> show_tree(with: command))
+  use response <- result.try(menu_tree |> gleemenu.show_tree(with: command))
 
   io.debug(response)
 
