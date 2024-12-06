@@ -3,6 +3,8 @@
 [![Package Version](https://img.shields.io/hexpm/v/gleemenu)](https://hex.pm/packages/gleemenu)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/gleemenu/)
 
+![gleemenu](https://github.com/user-attachments/assets/2458e7dd-6fe9-4e7f-82b1-8daa4c5bbfce)
+
 ```sh
 gleam add gleemenu@1
 ```
